@@ -1,0 +1,35 @@
+.logo{
+	width: 200px;
+	height: 109px;
+	background: url(../images/logo.png);
+	text-indent: -9999px;
+	overflow: hidden;
+
+}
+.logo a{
+	display: block;
+	height: 100%;
+	position: relative;
+}
+footer p{
+	margin: 0;
+}
+footer a{
+	margin: 0;
+}
+dl{
+	margin: 10px 0;
+}
+table, th{
+	border: 1px solid gray;
+	text-align: left;
+}
+.test{
+	margin-bottom: 10px;
+}
+.test p{
+	margin: 0;
+}
+.test p.answers{
+	margin-bottom: 10px;
+}
